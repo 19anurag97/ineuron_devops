@@ -1,0 +1,10 @@
+Q- How to clone a repository from VSCODE to local machine?
+
+Go to View-> Command Pallette->Git: Clone
+Enter the url of repository. 
+Example: https://github.com/19anurag97/ineuron_devops
+It will ask where to save the folder locally and then open that in folder in vscode.
+
+Q- How to check OS name in linux terminal?
+This command works on both rpm and deb os.
+# cat /etc/*-release
